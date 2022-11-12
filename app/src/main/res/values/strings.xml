@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sign</string>
+    <string name="sign">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="btn">SIGN UP</string>
+    <string name="already">Already an user ? Login</string>
+    <string name="sufix_email">gmail.com</string>
+</resources>
